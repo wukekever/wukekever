@@ -7,11 +7,6 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wukekever/count.svg" width = 250/>
-</p>
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width = 250/>
 
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
@@ -36,3 +31,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
 </div>
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wukekever/count.svg" width = 250/>
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
