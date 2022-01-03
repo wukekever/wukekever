@@ -8,12 +8,12 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width = 200/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width = 250/>
 
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
 - :email: Email: wukekever@sjtu.edu.cn 
-- :house_with_garden: Location: School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dong Chuan Road, Minhang District, Shanghai
+- :house_with_garden: Location: School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dong Chuan Road, Minhang District, Shanghai, 200240, China
     
 <br>
 <p align="center">
