@@ -4,9 +4,9 @@
 ![decription](https://img.shields.io/badge/tool-jupyter--notebook-brightgreen)
 
 ### Hi, there 👋 
+
 <center>
     <img src="https://profile-counter.glitch.me/wukekever/count.svg" width="400">
-    <center>最爱卡妹</center>
 </center>
 
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
