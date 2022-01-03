@@ -5,10 +5,6 @@
 
 ### Hi, there 👋 
 
-<center>
-    <img src="https://profile-counter.glitch.me/wukekever/count.svg" width="400">
-</center>
-
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
 
 ### Itoduction
