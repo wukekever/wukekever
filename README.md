@@ -5,7 +5,7 @@
 
 ### Hello, I'm wukekever :purple_heart:
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 <p align="center"> 
   Visitor count<br>
