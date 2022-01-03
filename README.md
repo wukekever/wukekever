@@ -18,7 +18,7 @@
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wukekever&&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width = 250 alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact&theme=radical" width = 250 alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact&theme=radical" width = 300 alt="My Github Stats">
 </p>
 
 <div align="center">  
