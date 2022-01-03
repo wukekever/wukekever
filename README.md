@@ -7,7 +7,7 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="150" />
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="140" />
 
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
@@ -42,33 +42,3 @@
 
 </div>
 
-
-
-<html>
-<head>
-	<meta charset="utf-8">
-	<title></title>
-	<style type="text/css">
-		img {
-			position: absolute;
-			width: 100px;
-		}
-	</style>
-</head>
-<body>
-
-//图片可以是jpg、png、gif的，推荐使用相对路径
-	<img src="./images/10.gif" id="mv">
-<script type="text/javascript">
-	//onmousemove 当鼠标移动时，触发事件
-	var mv = document.getElementById("mv");
-	document.onmousemove = function (e){
-		var e = e || window.event;
-		// 用于获取鼠标针对页面可视区的横纵坐标
-		//console.log(e.clientX, e.clientY);
-		mv.style.left = e.clientX + "px";
-		mv.style.top = e.clientY + "px";
-		}
-	</script>
-</body>
-</html>
