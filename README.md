@@ -1,3 +1,9 @@
+### Hello, I'm wukekever :purple_heart:
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+
+![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
+
+
 ![decription](https://img.shields.io/badge/tools-vscode-blue)
 ![decription](https://img.shields.io/badge/language-PyTorch-lightgrey)
 ![decription](https://img.shields.io/badge/language-TensorFlow-orange)
@@ -8,10 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact)](https://github.com/wukekever/github-readme-stats)
 
-### Hello, I'm wukekever :purple_heart:
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
-
-![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
 
 ### Itoduction
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
