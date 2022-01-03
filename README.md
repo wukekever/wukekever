@@ -1,6 +1,8 @@
+### Hi, there 👋
+
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) 
 
-### Hello, nice to meet you! 👋
+### Nice to meet you! 
 
 ![wukekever's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&theme=tokyonight)
 
