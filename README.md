@@ -7,7 +7,7 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width = 250/>
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
@@ -19,8 +19,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wukekever&&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact&theme=radical" alt="My Github Stats">
 </p>
-
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
