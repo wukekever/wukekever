@@ -7,7 +7,7 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="250" />
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="180" />
 
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
