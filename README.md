@@ -1,5 +1,4 @@
-### Hi there 👋
-### My ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) visitor.
+### Hi there 👋, visitor No. ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) visitor.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever)](https://github.com/wukekever/github-readme-stats)
 
