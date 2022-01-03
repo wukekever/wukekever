@@ -20,6 +20,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact&theme=radical" alt="My Github Stats">
 </p>
 
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
