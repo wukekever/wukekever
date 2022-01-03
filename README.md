@@ -18,7 +18,7 @@
 ![wukekever's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&theme=tokyonight)
 
 ### Skill  
-<table><tr><td valign="top" width="33%">
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
@@ -28,7 +28,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
 </div>
-</td></tr></table>  
+
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact)](https://github.com/wukekever/github-readme-stats)
 
