@@ -4,12 +4,14 @@
 ![decription](https://img.shields.io/badge/tool-jupyter--notebook-brightgreen)
 
 ### Hello, I'm wukekever :purple_heart:
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wukekever/count.svg" width = 250/>
 </p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width = 250/>
 
