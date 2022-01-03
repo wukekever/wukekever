@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever)](https://github.com/wukekever/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact)](https://github.com/wukekever/github-readme-stats)
 
 ![wukekever's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&theme=tokyonight)
 
