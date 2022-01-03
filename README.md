@@ -4,10 +4,9 @@
 
 ### Nice to meet you! 
 
-![wukekever's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&theme=tokyonight)
-
-Here are some introduction of me:
-
+![decription](https://img.shields.io/badge/tools-vscode-blue)
+![decription](https://img.shields.io/badge/language-PyTorch-lightgrey)
+![decription](https://img.shields.io/badge/language-TensorFlow-orange)
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
 - :email: Email: wukekever@sjtu.edu.cn 
@@ -16,9 +15,7 @@ Here are some introduction of me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact)](https://github.com/wukekever/github-readme-stats)
 
-![decription](https://img.shields.io/badge/tools-vscode-blue)
-![decription](https://img.shields.io/badge/language-PyTorch-lightgrey)
-![decription](https://img.shields.io/badge/language-TensorFlow-orange)
+![wukekever's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&theme=tokyonight)
 
 
 
