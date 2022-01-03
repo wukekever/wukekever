@@ -1,10 +1,10 @@
-### Hi there 👋
-
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) 
+
+### Hello, nice to meet you! 👋
 
 ![wukekever's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+Here are some introduction of me:
 
 - 🔭 I’m currently working on solving partial differential equations(PDEs) by deep neural networks
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
