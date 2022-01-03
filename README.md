@@ -5,14 +5,15 @@
 
 ### Github Stats
 ![wukekever's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact)](https://github.com/wukekever/github-readme-stats)
 
-### Hi, there 👋 
+### Hello, I'm wukekever :purple_heart:
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
 
 ### Itoduction
-
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
 - :email: Email: wukekever@sjtu.edu.cn 
