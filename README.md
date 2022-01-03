@@ -6,7 +6,7 @@
 ### Hi, there 👋 
 <div align="center">  
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) 
-</div>
+
 ### Itoduction
 
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
