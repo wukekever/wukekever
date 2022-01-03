@@ -3,7 +3,7 @@
 ![decription](https://img.shields.io/badge/language-TensorFlow-orange)
 ![decription](https://img.shields.io/badge/tool-jupyter--notebook-brightgreen)
 
-### Hello, I'm wukekever :purple_heart:
+### Hello, I'm wukekever :purple_heart: Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
