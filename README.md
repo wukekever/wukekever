@@ -6,7 +6,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) 
 
-### Nice to meet you! 
 
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
