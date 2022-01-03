@@ -5,7 +5,7 @@
 
 ### Hi, there 👋 
 
-![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) 
+<center> ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) </center>
 
 ### Itoduction
 
