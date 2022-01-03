@@ -1,13 +1,11 @@
-### Hello, I'm wukekever :purple_heart:
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
-
-![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
-
-
 ![decription](https://img.shields.io/badge/tools-vscode-blue)
 ![decription](https://img.shields.io/badge/language-PyTorch-lightgrey)
 ![decription](https://img.shields.io/badge/language-TensorFlow-orange)
 ![decription](https://img.shields.io/badge/tool-jupyter--notebook-brightgreen)
+
+### Hello, I'm wukekever :purple_heart:
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
 
 ### Github Stats
 ![wukekever's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&theme=tokyonight)
