@@ -3,9 +3,7 @@
 ![decription](https://img.shields.io/badge/language-TensorFlow-orange)
 ![decription](https://img.shields.io/badge/tool-jupyter--notebook-brightgreen)
 
-### Hi, there 👋 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=wukekever&&style=flat-square" align="right" />
-</div> 
+### Hi, there 👋 
 
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) 
 
