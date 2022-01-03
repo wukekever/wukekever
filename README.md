@@ -1,12 +1,13 @@
+![decription](https://img.shields.io/badge/tools-vscode-blue)
+![decription](https://img.shields.io/badge/language-PyTorch-lightgrey)
+![decription](https://img.shields.io/badge/language-TensorFlow-orange)
+
 ### Hi, there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) 
 
 ### Nice to meet you! 
 
-![decription](https://img.shields.io/badge/tools-vscode-blue)
-![decription](https://img.shields.io/badge/language-PyTorch-lightgrey)
-![decription](https://img.shields.io/badge/language-TensorFlow-orange)
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
 - :email: Email: wukekever@sjtu.edu.cn 
