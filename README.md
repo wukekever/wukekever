@@ -2,7 +2,9 @@
 ![decription](https://img.shields.io/badge/language-PyTorch-lightgrey)
 ![decription](https://img.shields.io/badge/language-TensorFlow-orange)
 ![decription](https://img.shields.io/badge/tool-jupyter--notebook-brightgreen)
-
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=wukekever&&style=flat-square" align="right" />
+</div> 
 ### Hi, there 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg) 
@@ -46,25 +48,6 @@
 
 
 </td></tr></table>  
-
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=wukekever&&style=flat-square" align="right" />
-</div>  
+ 
   
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
