@@ -8,6 +8,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
 
+- 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
+- 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
+- :email: Email: wukekever@sjtu.edu.cn 
+- :house_with_garden: Location: School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dong Chuan Road, Minhang District, Shanghai
+
 ### Github Stats
     
 <br>
@@ -16,15 +21,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact&theme=radical" alt="My Github Stats">
 </p>
 
-
-### Itoduction
-- 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
-- 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
-- :email: Email: wukekever@sjtu.edu.cn 
-- :house_with_garden: Location: School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dong Chuan Road, Minhang District, Shanghai
-
-
-### Skill   
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
