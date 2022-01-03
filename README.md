@@ -23,7 +23,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skill  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -46,27 +46,12 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-  
 
 <br/>  
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wukekever&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
