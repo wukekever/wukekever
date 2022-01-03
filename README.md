@@ -5,7 +5,6 @@
 
 ### Hello, I'm wukekever :purple_heart:
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ![Visitor Count](https://profile-counter.glitch.me/wukekever/count.svg)
 
 - 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
