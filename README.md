@@ -6,7 +6,7 @@
 
 ### Hello, I'm wukekever :purple_heart: Welcome aboard my code station 🚀
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 100/>
+<img align="center" alt="GIF" src="https://github.com/wukekever/wukekever/blob/main/pictures/hello.gif" width = 100/>
 
 <img align="right" alt="GIF" src="https://github.com/wukekever/wukekever/blob/main/pictures/coding.gif" width="140" />
 
