@@ -4,7 +4,7 @@
 ![decription](https://img.shields.io/badge/language-TensorFlow-orange)
 
 
-### Hello, I'm wukekever :purple_heart: Welcome aboard my code station 🚀
+### Hello, I'm wukekever. Welcome aboard my code station 🚀
 
 <img align="center" alt="GIF" src="https://github.com/wukekever/wukekever/blob/main/pictures/hello.gif" width = 100/>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some :purple_heart: by starring some of the repositories!
 
 </div>
 
