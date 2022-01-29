@@ -8,10 +8,7 @@
 ![decription](https://img.shields.io/badge/language-MATLAB-lightgrey)
 
 ### Hello, I'm wukekever. Welcome aboard my code station 🚀
-<br>
-<p align="center">
-<img align="center" alt="GIF" src="https://github.com/wukekever/wukekever/blob/main/pictures/hello.gif" width = 100/>
-</p>
+
 <img align="right" alt="GIF" src="https://github.com/wukekever/wukekever/blob/main/pictures/coding.gif" width="140" />
 
 - 🔭 I’m currently interested in deep learning and scientific computing
