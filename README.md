@@ -1,16 +1,20 @@
-![decription](https://img.shields.io/badge/tools-vscode-blue)
+![decription](https://img.shields.io/badge/tool-vscode-blue)
 ![decription](https://img.shields.io/badge/tool-jupyter--notebook-brightgreen)
 ![decription](https://img.shields.io/badge/language-PyTorch-lightgrey)
 ![decription](https://img.shields.io/badge/language-TensorFlow-orange)
-
+![decription](https://img.shields.io/badge/tool-docker-red)
+![decription](https://img.shields.io/badge/language-JAX-yellowgreen)
+![decription](https://img.shields.io/badge/language-Julia-orange)
+![decription](https://img.shields.io/badge/language-MATLAB-lightgrey)
 
 ### Hello, I'm wukekever. Welcome aboard my code station 🚀
-
+<br>
+<p align="center">
 <img align="center" alt="GIF" src="https://github.com/wukekever/wukekever/blob/main/pictures/hello.gif" width = 100/>
-
+</p>
 <img align="right" alt="GIF" src="https://github.com/wukekever/wukekever/blob/main/pictures/coding.gif" width="140" />
 
-- 🔭 I’m currently interested in solving partial differential equations(PDEs) by deep neural networks
+- 🔭 I’m currently interested in deep learning and scientific computing
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, etc.
 - :email: Email: wukekever@sjtu.edu.cn 
 - :house_with_garden: Location: School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dong Chuan Road, Minhang District, Shanghai, 200240, China
@@ -19,7 +23,6 @@
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wukekever&&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width = 300 alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact&theme=radical" width = 300 alt="My Github Stats">
 </p>
 
 <div align="center">  
@@ -39,8 +42,6 @@
 </p>
 
 <div align="center">
-
-### Show some :purple_heart: by starring some of the repositories!
 
 </div>
 
