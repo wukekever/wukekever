@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact&theme=radical" width = 300 alt="My Github Stats">
 </p>
 
- [![wukekever's contribution graph as a Game of Life](https://github4life.herokuapp.com/wukekever.gif)](https://github4life.herokuapp.com/Alpha-Girl)
+ [![wukekever's contribution graph as a Game of Life](https://github4life.herokuapp.com/wukekever.gif)](https://github4life.herokuapp.com/wukekever)
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
