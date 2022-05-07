@@ -23,6 +23,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact&theme=radical" width = 300 alt="My Github Stats">
 </p>
 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wukekever&show_icons=true">
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
