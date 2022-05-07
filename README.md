@@ -24,7 +24,6 @@
 </p>
 
 <br>
-<p align="center">
  [![wukekever's contribution graph as a Game of Life](https://github4life.herokuapp.com/wukekever.gif)](https://github4life.herokuapp.com/wukekever)
 </p>
 
