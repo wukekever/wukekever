@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning JAX, TensorFlow, PyTorch, MATLAB, Julia, HTML, etc.
 - :email: Email: wukekever@sjtu.edu.cn 
 - :house_with_garden: Location: School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dong Chuan Road, Minhang District, Shanghai, 200240, China
-- :globe_with_meridians: https://wukekever.github.io/
+- :globe_with_meridians: Website: https://wukekever.github.io/
 
 
 <br>
