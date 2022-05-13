@@ -7,8 +7,6 @@
 ![decription](https://img.shields.io/badge/language-Julia-orange)
 ![decription](https://img.shields.io/badge/language-MATLAB-lightgrey)
 
-[![wukekever's contribution graph as a Game of Life](https://github4life.herokuapp.com/wukekever.gif)](https://github4life.herokuapp.com/wukekever)
-
 ### Welcome aboard my code station 🚀[Homepage](https://wukekever.github.io/)
 <!-- 
 <img align="right" alt="GIF" src="https://github.com/wukekever/wukekever/blob/main/pictures/coding.gif" width="140" />
@@ -27,6 +25,9 @@
 </p>
 -->
 
+<!-- 
+[![wukekever's contribution graph as a Game of Life](https://github4life.herokuapp.com/wukekever.gif)](https://github4life.herokuapp.com/wukekever)
+ -->
  
 <!-- 
 <div align="center">  
@@ -40,6 +41,7 @@
 </div>
 -->
 
+<!-- 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wukekever/count.svg" width = 250/>
@@ -48,4 +50,4 @@
 <div align="center">
 
 </div>
-
+-->
