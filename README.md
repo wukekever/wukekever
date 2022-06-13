@@ -7,7 +7,7 @@
 ![decription](https://img.shields.io/badge/language-Julia-orange)
 ![decription](https://img.shields.io/badge/language-MATLAB-lightgrey)
 
-### Welcome aboard my code station 🚀<!--[Homepage](https://wukekever.github.io/)-->
+### Welcome aboard my code station 🚀[Homepage](https://wukekever.github.io/)
 <!-- 
 <img align="right" alt="GIF" src="https://github.com/wukekever/wukekever/blob/main/pictures/coding.gif" width="140" />
 -->
@@ -17,13 +17,11 @@
 - :email: Email: wukekever@sjtu.edu.cn 
 - :house_with_garden: Location: School of Mathematical Sciences, Shanghai Jiao Tong University, 800 Dong Chuan Road, Minhang District, Shanghai, 200240, China
 
-<!-- 
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wukekever&&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width = 300 alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukekever&layout=compact&theme=radical" width = 300 alt="My Github Stats">
 </p>
--->
 
 <!-- 
 [![wukekever's contribution graph as a Game of Life](https://github4life.herokuapp.com/wukekever.gif)](https://github4life.herokuapp.com/wukekever)
